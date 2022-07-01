@@ -1,6 +1,6 @@
 <h1>Olá, sou o André 👋😄</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" height="200px" alt="Computador">
+<img src="AndreProgramando.gif" min-width="350px" max-width="350px" width="350px" align="right" height="250px">
 
 <p align="left"> 
 Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Faço Front-end e Back-end, sempre estudando para aprimorar cada vez mais meus conhecimentos.
