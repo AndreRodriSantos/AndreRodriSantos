@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Olá, sou o André 👋😄</h1>
 
-<!--
-**AndreRodriSantos/AndreRodriSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Here are some ideas to get you started:
+<p align="left"> 
+Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Faço Front-end e Back-end, sempre estudando para aprimorar cada vez mais meus conhecimentos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+👀 Interesado em desenvolvimento de sistemas, HTML, CSS, JavaScript e Java.
+
+🌱 Estudando no Curso Técnico em Desenvolvimento de Sistemas no Senai
+
+<p align="left">
+  📫 Como entrar em contato:
+  <a href="andrerodrisantos15@gmail.com" alt="Gmail">andrerodrisantos15@gmail.com</a>
+ </p>
+
+<img align="left" max-width="50%" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
+
+<img align="right" max-width="50%" margin="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact" />
+
