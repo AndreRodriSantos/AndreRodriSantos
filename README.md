@@ -24,6 +24,7 @@ Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo c
   <a href="andrerodrisantos15@gmail.com" alt="Gmail">andrerodrisantos15@gmail.com</a>
  </p>
 
-<div align="center">
-<img max-width="45%" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/> <img max-width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact&theme=nightowl" />
+<div>
+<img align="left" max-width="47.8%" width="47.8%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
+<img align="right" max-width="40%" width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact&theme=nightowl" />
 </div>
