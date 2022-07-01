@@ -1,6 +1,6 @@
 <h1>Olá, sou o André 👋😄</h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" height="250px" alt="Computador">
 
 <p align="left"> 
 Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Faço Front-end e Back-end, sempre estudando para aprimorar cada vez mais meus conhecimentos.
@@ -24,7 +24,7 @@ Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo c
   <a href="andrerodrisantos15@gmail.com" alt="Gmail">andrerodrisantos15@gmail.com</a>
  </p>
 
-<img align="left" max-width="50%" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
-
-<img align="right" max-width="50%" margin="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact" />
-
+<div display="flex" align=center>
+<img max-width="50%" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
+<img max-width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact&theme=nightowl" />
+</div>
