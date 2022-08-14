@@ -3,7 +3,7 @@
 <img src="AndreProgramando.gif" min-width="350px" max-width="350px" width="350px" align="right" height="250px">
 
 <p align="left"> 
-Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Faço Front-end e Back-end, sempre estudando para aprimorar cada vez mais meus conhecimentos.
+Tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Faço Front-end e Back-end, sempre estudando para aprimorar cada vez mais meus conhecimentos.
 </p>
 
 <p align="left">
@@ -20,8 +20,14 @@ Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo c
 🌱 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 
 <p align="left">
-  📫 Como entrar em contato:
-  <a href="andrerodrisantos15@gmail.com" alt="Gmail">andrerodrisantos15@gmail.com</a>
+  📫 Redes Sociais:
+  
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"><a href="andrerodrisantos15@gmail.com" alt="Gmail"></img>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-145670246/" alt="Linkedin"></img>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+"><a href="instagram.com/andrerodrisantos" alt="Instagram"></img>
+  
  </p>
 
 <div>
