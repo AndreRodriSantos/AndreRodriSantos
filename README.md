@@ -22,11 +22,11 @@ Tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desen
 <p align="left">
   📫 Redes Sociais:
   
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="andrerodrisantos15@gmail.com" alt="Gmail"></img>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-145670246/" alt="Linkedin"></img>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a href="instagram.com/andrerodrisantos" alt="Instagram"></img>
+   <a href = "mailto:andrerodrisantos15@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="blank"></a>
+   <a href="https://www.linkedin.com/in/andré-rodrigues-145670246/)" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+   <a href="https://instagram.com/andrerodrisantos" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>  
   
- </p>
+</p>
 
 <div>
 <img align="left" max-width="47.8%" width="47.8%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
