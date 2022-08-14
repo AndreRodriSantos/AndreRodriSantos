@@ -22,11 +22,9 @@ Tenho 18 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desen
 <p align="left">
   📫 Redes Sociais:
   
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"><a href="andrerodrisantos15@gmail.com" alt="Gmail"></img>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="andrerodrisantos15@gmail.com" alt="Gmail"></img>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/andr%C3%A9-rodrigues-145670246/" alt="Linkedin"></img>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-"><a href="instagram.com/andrerodrisantos" alt="Instagram"></img>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a href="instagram.com/andrerodrisantos" alt="Instagram"></img>
   
  </p>
 
