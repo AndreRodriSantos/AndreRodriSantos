@@ -15,9 +15,9 @@ Meu nome é André, tenho 18 anos e estudo desenvolvimento de sistemas, possuo c
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-👀 Interesado em desenvolvimento de sistemas, HTML, CSS, JavaScript e Java.
+👀 Interessado em desenvolvimento de sistemas, HTML, CSS, JavaScript e Java.
 
-🌱 Estudando no Curso Técnico em Desenvolvimento de Sistemas no Senai
+🌱 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 
 <p align="left">
   📫 Como entrar em contato:
