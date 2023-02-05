@@ -1,4 +1,4 @@
-<h1>Olá, sou o André 👋😄</h1>
+![Card](https://user-images.githubusercontent.com/94193890/216846056-c3d80ba4-497f-4b76-87a2-9b224010e955.gif)
 
 <img src="AndreProgramando.gif" min-width="350px" max-width="350px" width="350px" align="right" height="250px">
 
