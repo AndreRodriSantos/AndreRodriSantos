@@ -15,9 +15,13 @@ Tenho 19 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desen
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-👀 Interessado em desenvolvimento de sistemas, HTML, CSS, JavaScript e Java.
+👀 Interessado em desenvolvimento de sistemas, 
+HTML, CSS, JavaScript e Java.
 
-🌱 Cursei Técnico em Desenvolvimento de Sistemas no Senai
+🎓Cursei Técnico em Desenvolvimento de Sistemas no Senai.
+
+📖Atualmente estudando: C# e TypeScript.
+
 
 <p align="left">
   📫 Redes Sociais:
@@ -31,4 +35,10 @@ Tenho 19 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desen
 <div>
 <img align="left" max-width="47.8%" width="47.8%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreRodriSantos&theme=nightowl&count_private=1"/>
 <img align="right" max-width="40%" width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRodriSantos&layout=compact&theme=nightowl" />
+  
+</div>
+
+<div>
+
+
 </div>
