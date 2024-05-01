@@ -18,7 +18,7 @@ Tenho 20 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desen
 👀 Interessado em desenvolvimento de sistemas, 
 HTML, CSS, JavaScript e Java.
 
-🎓Cursei Técnico em Desenvolvimento de Sistemas no Senai.
+🎓Técnico em Desenvolvimento de Sistemas no Senai e Cursando Analise e Desenvilvimento de Sistemas na Unip
 
 📖Atualmente estudando: C# e TypeScript.
 
