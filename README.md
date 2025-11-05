@@ -1,9 +1,7 @@
 ![Card](https://user-images.githubusercontent.com/94193890/216846056-c3d80ba4-497f-4b76-87a2-9b224010e955.gif)
 
-<img src="AndreProgramando.gif" min-width="350px" max-width="350px" width="350px" align="right" height="300px">
-
 <p align="left"> 
-Tenho 20 anos e estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Tenho mais afinidade com o Front-end mas também trabalho com Back-end. Sempre estudando para aprimorar cada vez mais meus conhecimentos.
+Estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Tenho mais afinidade com o Front-end mas também trabalho com Back-end. Sempre estudando para aprimorar cada vez mais meus conhecimentos.
 </p>
 
 <p align="left">
