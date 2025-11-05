@@ -1,5 +1,3 @@
-![Card](https://user-images.githubusercontent.com/94193890/216846056-c3d80ba4-497f-4b76-87a2-9b224010e955.gif)
-
 <p align="left"> 
 Estudo desenvolvimento de sistemas, possuo conhecimento em Desenvolvimento Web, Banco de Dados SQL e um pouco de Desenvolvimento Mobile. Tenho mais afinidade com o Front-end mas também trabalho com Back-end. Sempre estudando para aprimorar cada vez mais meus conhecimentos.
 </p>
